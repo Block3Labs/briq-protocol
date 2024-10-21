@@ -48,6 +48,7 @@ mod tokens {
     mod booklet_starknet_planet;
     mod booklet_briqmas;
     mod booklet_ducks_frens;
+    mod booklet_nounsters;
     //mod booklet_lil_ducks;
 
     mod briq_token;
@@ -58,6 +59,7 @@ mod tokens {
     mod set_nft_sp;
     mod set_nft_briqmas;
     mod set_nft_1155_ducks_frens;
+    mod set_nft_nounsters;
     //mod set_nft_1155_lil_ducks;
 }
 
